@@ -1,4 +1,4 @@
-# rossmann_TSA_forecasts
+# Time Series Analysis and Forecasts with Prophet
 
 This project is built using the data from [Rossmann competition](https://www.kaggle.com/c/rossmann-store-sales) hosted at Kaggle and then published for comfortable reading as the Jupyter notebook.
 
