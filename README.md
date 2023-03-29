@@ -8,8 +8,7 @@ Time Series Analysis & Forecasting
 
 - __Exploratory Data Analysis with Python__ (ECDF, missing values, Correlation analysis ...)
 - __Time Series Analysis__ per store type (__Seasonal decomposition, Autocorrelation__)
-- __Forecasting__ with [Prophet](https://github.com/facebookincubator/prophet)
-- Predictive modeling with __XGboost__
+- __Forecasting__ with Prophet
 
 Libraries used: __numpy, pandas, matplotlib, seaborn, statsmodel, fbprophet (Facebook), xgboost, sklearn__.
 
