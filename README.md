@@ -1,6 +1,6 @@
 # Time Series Analysis and Forecasts with Prophet
 
-This project is built using the data from [Rossmann competition](https://www.kaggle.com/c/rossmann-store-sales) which is hosted at Kaggle, was used to build this project. The Jupyter notebook was then shared for easy reading.
+This project is built using the data from [Rossmann competition](https://www.kaggle.com/c/rossmann-store-sales) which is hosted at Kaggle, was used to build this project. 
 
 To check out the project open an .ipynb file.
 
